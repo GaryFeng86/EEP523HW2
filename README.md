@@ -49,5 +49,6 @@ The most challenging part of this assignment was implementing the face detection
 Approximately 20 hours were invested in developing, testing, and refining the application.
 
 ## Installation and Setup
-Clone the repository from [GitHub](https://github.com/YourGitHubRepoLink), and open the project in Android Studio. Run the application on a compatible Android device or emulator.
-
+Clone the repository from [GitHub](https://github.com/GaryFeng86/EEP523HW2.git), and open the project in Android Studio. Run the application on a compatible Android device or emulator.
+## Watch Vedio
+Google Drive(https://drive.google.com/file/d/13p7jycn5gYh4B903z5RyorcJiVE2hZ25/view?usp=sharing)
